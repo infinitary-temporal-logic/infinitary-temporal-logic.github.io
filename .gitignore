@@ -1,0 +1,6 @@
+.direnv/
+.cabal-local/
+dist-newstyle/
+_cache/
+_site/
+.envrc
